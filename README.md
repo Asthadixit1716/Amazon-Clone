@@ -1,4 +1,4 @@
-# Cousera-test
-Coursera test repository
+# Amazon-Clone
+Clone repository
 <br>
 Author- Astha Dixit
